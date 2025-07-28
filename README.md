@@ -2,9 +2,14 @@
 
  Tailoring Agriculture Quality Products Delivery System (AgriTech-Fayda)
 Team members
+
+
 Jitu Alemayehu
 Kidist Kemal
 Negede Yishak
+
+
+
 Problem of Statement:
 Developing countries like Ethiopian agricultural sector faces significant challenges in delivering quality products from farms to consumers. Current delivery systems often suffer from inefficiencies, lack of transparency, and inadequate infrastructure, resulting in post-harvest losses, reduced product quality, and limited market access for farmers.
 This situation is exacerbated by fragmentation in supply chains, insufficient integration of technology, and poor communication between stakeholders, including farmers, transporters, and consumers. As a result, consumers receive inconsistent quality and limited information about the origin of their food, while farmers struggle to achieve fair prices and maintain sustainable practices.
